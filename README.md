@@ -32,8 +32,8 @@ The goal is to help financial institutions identify suspicious activity faster a
 ## 📂 Project Files  
 📊 *Power BI Dashboard (.pbix):* [🔗 Download Here](https://drive.google.com/file/d/15ZM8Oe40IbI7p2U2kg7Fzf_d5l8RWgA5/view?usp=drive_link)  
 📁 *Original Dataset:* [🔗 Download Here](https://drive.google.com/file/d/1hiJoOctRrKugKv6MqlMEFLc8DTpQqefr/view?usp=drive_link)  
-📄 *SQL Scripts:* Available in [/sql_scripts](./sql_scripts) folder
-📄 *Dashboard pdf:* Available in [/dashboard_pdf] folder
+📄 *SQL Scripts:* Available in [/sql_scripts](./sql_scripts) folder <br>
+📄 *Dashboard pdf:* Available in [/PowerBI_dashboard_pdf](https://github.com/Sonia-200/Credit-card-transactions-and-fraud-analysis/tree/main/2.%20Powerbi_dashboard_pdf) folder
 <br><br>
 
 
