@@ -8,11 +8,7 @@
 This project analyzes *2,83,726 credit card transactions* to detect fraudulent activity and uncover spending patterns.  
 Using *SQL* for data processing and *Power BI* for visualization, the project simulates a real-world fraud detection workflow used in banking & finance.
 The goal is to help financial institutions identify suspicious activity faster and reduce fraud loss
-
-
-
 <br><br>
-
 
 
 ## 🎯 Key Results & Impact  
@@ -24,15 +20,13 @@ The goal is to help financial institutions identify suspicious activity faster a
 <br><br>
 
 
-
-
 ## 🛠 Tech Stack  
 | Tool      | Purpose |
 |-----------|---------|
 | *SQL*   | Data cleaning, transformation & fraud pattern analysis |
 | *Power BI* | Interactive fraud monitoring dashboard |
-<br><br>
 
+<br><br>
 
 
 ## 📂 Project Files  
@@ -43,18 +37,10 @@ The goal is to help financial institutions identify suspicious activity faster a
 <br><br>
 
 
-
-
-
 ## 📸 Dashboard Preview  
 
 ![WhatsApp Image 2025-08-14 at 20 58 13_4b329e8f](https://github.com/user-attachments/assets/dfdfe717-0949-4fc4-be6e-9b1078c16191)
-
-
-
 <br><br>
-
-
 
 
 ## 📜 How to Use  
@@ -62,9 +48,7 @@ The goal is to help financial institutions identify suspicious activity faster a
 2. Open .pbix in Power BI Desktop or review from pdf available 
 3. Explore visuals, filters, and drill-throughs for fraud insights  
 4. Review SQL scripts for data preparation process  
-
 <br><br>
-
 
 
 ## 📈 Key Insights  
@@ -74,15 +58,11 @@ The goal is to help financial institutions identify suspicious activity faster a
 <br><br>
 
 
-
-
 ## 🚀 Future Improvements  
 - Integrate *Machine Learning models* for real-time fraud prediction  
 - Add *automated fraud alerts* within dashboard  
 <br><br>
 
 
-
-
- 💡 This project showcases *end-to-end analytical skills* — from SQL-based raw data transformation to business-ready visual storytelling — making it portfolio-ready for Data Analyst roles in finance, banking, and risk management.  
+💡 This project showcases *end-to-end analytical skills* — from SQL-based raw data transformation to business-ready visual storytelling — making it portfolio-ready for Data Analyst roles in finance, banking, and risk management.  
 
