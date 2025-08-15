@@ -1,0 +1,36 @@
+--table copy and creation
+create table credit_data(
+Time   double precision,
+V1      double precision,
+V2      double precision,
+V3      double precision,
+V4       double precision,
+V5         double precision,
+V6         double precision,
+V7         double precision,
+V8         double precision,
+V9         double precision,
+V10         double precision,
+V11        double precision,
+V12         double precision,
+V13         double precision,
+V14         double precision,
+V15         double precision,
+V16         double precision,
+V17         double precision,
+V18         double precision,
+V19         double precision,
+V20         double precision,
+V21         double precision,
+V22         double precision,
+V23        double precision,
+V24        double precision,
+V25        double precision,
+V26        double precision,
+V27        double precision,
+V28        double precision,
+Amount     double precision,
+Class      smallint
+)
+
+select * from credit_data
